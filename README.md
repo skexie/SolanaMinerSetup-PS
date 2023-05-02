@@ -1,0 +1,1 @@
+# SolanaMinerSetup-PS
